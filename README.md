@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>R studio</b>
-  - [US Car accidents analysis: EDA, regression models, Time series forecasting](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [US Car accidents analysis: EDA, regression models, Time series forecasting]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/SalmaSyed115/US-accidents-analysis))
 - <b>Python</b>
   - [Sales data prediction: Numpy, Pandas, Randomforest, Regression, A/B test](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Tableau, Power BI </b>
