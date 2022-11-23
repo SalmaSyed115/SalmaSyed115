@@ -5,7 +5,7 @@
 - <b>R studio</b>
   - [US Car accidents analysis: EDA, regression models, Time series forecasting](https://github.com/SalmaSyed115/US-accidents-analysis)
 - <b>Python</b>
-  - [Sales data prediction: Numpy, Pandas, Randomforest, Regression, A/B test]()
+  - [Sales data prediction: Numpy, Pandas, Randomforest, Regression, A/B test](https://github.com/SalmaSyed115/Sales-data-prediction)
 - <b>Tableau, Power BI </b>
   - [OWID COVID Data Analysis - Tableau]()
   - [OWID COVID Data Analysis - Power BI]()
