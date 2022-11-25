@@ -7,8 +7,8 @@
 - <b>Python</b>
   - [Sales data prediction: Numpy, Pandas, Randomforest, Regression, A/B test](https://github.com/SalmaSyed115/Sales-data-prediction)
 - <b>Tableau, Power BI </b>
-  - [OWID COVID Data Analysis - Tableau]()
-  - [OWID COVID Data Analysis - Power BI]()
+  - [OWID COVID Data Analysis](https://github.com/SalmaSyed115/Tableau-Covid-data)
+  
 
 
 <h2>📺 YouTube Videos</h2>
